@@ -3,7 +3,7 @@
 Talk summaries from conferences I attend.
 
 <div class="card-grid">
-<div class="card"><a href="TXLF/2026/README.md"><span class="card-emoji">🐧</span><span class="card-title">Texas Linux Fest 2026</span><span class="card-count">40 talks</span><span class="card-sub">November 6–7, 2026 · Austin, TX</span></a></div>
+<div class="card"><a href="TXLF/2026/"><span class="card-emoji">🐧</span><span class="card-title">Texas Linux Fest 2026</span><span class="card-count">40 talks</span><span class="card-sub">November 6–7, 2026 · Austin, TX</span></a></div>
 <div class="card muted"><span class="card-emoji">📅</span><span class="card-title">Future events</span><span class="card-count">Coming soon</span><span class="card-sub">TXLF 2027 · SCALE 2027</span></div>
 </div>
 
@@ -11,7 +11,7 @@ Talk summaries from conferences I attend.
 
 November 6–7, 2026, JJ Pickle Research Campus, Austin, TX — 40 talks.
 
-[TXLF 2026 index](TXLF/2026/README.md)
+[TXLF 2026 index](TXLF/2026/)
 
 ### Friday, November 6, 2026
 
