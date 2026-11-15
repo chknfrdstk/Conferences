@@ -10,6 +10,8 @@ Notes from conferences I attend — talk summaries, links, and repos, organised 
 
 - **GitHub Pages** — Jekyll, deploy from `main` / (root), via `_config.yml`. Site: https://chknfrdstk.github.io/Conferences/
 - **Theme switched to Midnight (dark, whole site)** — later on Nov 14, from Cayman to `jekyll-theme-midnight`. Slate was tried first, but only its header was dark.
+- **Clean Pages home page** — `index.md` (separate from this README) with a card layout for TXLF 2026 and future events, plus the full 40-talk lists. No changelog on the Pages site.
+- **Custom dark CSS** — `assets/css/style.scss` overrides Midnight: dark background, accent `#58a6ff`, card grid with hover lift. Same CSS on both sites.
 - **Repeatable setup** — every push to main rebuilds the site automatically. New events go in their own `EVENT/YEAR/` folder with talks + README, push, done. No separate HTML export to maintain.
 
 ### November 14, 2026 — Repo created, TXLF 2026 moved from notes
