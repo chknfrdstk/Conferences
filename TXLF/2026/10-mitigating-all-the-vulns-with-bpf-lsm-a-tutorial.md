@@ -5,7 +5,7 @@ Texas Linux Fest 2026 — November 6–7, 2026, JJ Pickle Research Campus, Austi
 Summaries verified live November 10, 2026 from the Texas Linux Fest YouTube channel @texaslinuxfest3002, cross-checked against the official pretalx schedule. View counts and upload dates are as of November 10, 2026.
 
 - **Video title (YouTube):** "2026 TXLF Chris Arges Mitigating all the vulns with BPF LSM a tutorial audio proc" (the title as uploaded appears truncated, ending in "audio proc")
-- **URL:** https://www.youtube.com/watch?v=0LJDEDHXhEU
+- **URL:** [https://www.youtube.com/watch?v=0LJDEDHXhEU](https://www.youtube.com/watch?v=0LJDEDHXhEU)
 - **Duration:** 1:19:21 · **Uploaded:** November 8, 2026 · Views at check: 18
 - **Description:** none on YouTube.
 - **Repository:** none found in pretalx, YouTube description, or slides — no talk-linked repo located.

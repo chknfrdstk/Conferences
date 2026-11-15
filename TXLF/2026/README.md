@@ -4,9 +4,9 @@
 
 Texas Linux Fest 2026, November 6–7, 2026, JJ Pickle Research Campus, Austin, TX
 
-Channel: Texas Linux Fest, @texaslinuxfest3002 — https://www.youtube.com/@texaslinuxfest3002/videos
+Channel: Texas Linux Fest, @texaslinuxfest3002 — [https://www.youtube.com/@texaslinuxfest3002/videos](https://www.youtube.com/@texaslinuxfest3002/videos)
 
-Research date: Tuesday, November 10, 2026 — all facts verified live that day unless marked otherwise. Cross-check: official schedule https://pretalx.com/txlf2026/schedule/ (44 scheduled talks). Updated Thursday, November 12, 2026: 14 more talks (27–40) were uploaded to YouTube on November 10, 2026 and added below; the missing list is now down to 4 talks.
+Research date: Tuesday, November 10, 2026 — all facts verified live that day unless marked otherwise. Cross-check: official schedule [https://pretalx.com/txlf2026/schedule/](https://pretalx.com/txlf2026/schedule/) (44 scheduled talks). Updated Thursday, November 12, 2026: 14 more talks (27–40) were uploaded to YouTube on November 10, 2026 and added below; the missing list is now down to 4 talks.
 
 40 videos from the 2026 festival were found on the channel: 11 from Friday, November 6 (10 workshops + Lightning Talks) and 29 from Saturday, November 7 (keynote, all 10:00 AM and 11:00 AM talks, plus 18 afternoon talks).
 

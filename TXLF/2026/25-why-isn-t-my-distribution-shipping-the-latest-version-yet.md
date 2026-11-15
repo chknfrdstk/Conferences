@@ -5,7 +5,7 @@ Texas Linux Fest 2026 — November 6–7, 2026, JJ Pickle Research Campus, Austi
 Summaries verified live November 10, 2026 from the Texas Linux Fest YouTube channel @texaslinuxfest3002, cross-checked against the official pretalx schedule. View counts and upload dates are as of November 10, 2026.
 
 - **Video title (YouTube):** "Texas Linux Festival 2026-11-07: Linux's Secret Sauce Why Linux Releases Take So Long"
-- **URL:** https://www.youtube.com/watch?v=fUpvFlVnQ9o
+- **URL:** [https://www.youtube.com/watch?v=fUpvFlVnQ9o](https://www.youtube.com/watch?v=fUpvFlVnQ9o)
 - **Duration:** 25:23 · **Uploaded:** November 10, 2026 (minutes before viewing) · Views at check: 1
 - **Description:** none on YouTube.
 - **Repository:** none found in pretalx, YouTube description, or slides — no talk-linked repo located.

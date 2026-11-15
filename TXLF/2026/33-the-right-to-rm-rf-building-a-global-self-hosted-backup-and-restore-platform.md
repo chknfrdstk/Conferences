@@ -5,7 +5,7 @@ Texas Linux Fest 2026 — November 6–7, 2026, JJ Pickle Research Campus, Austi
 Summaries verified live November 12, 2026 from the Texas Linux Fest YouTube channel @texaslinuxfest3002, cross-checked against the official pretalx schedule. View counts and upload dates are as of November 12, 2026. Upload date is inferred from YouTube's "2 days ago" at the time of checking.
 
 - **Video title (YouTube):** "Texas Linux Festival 2026-11-07: The Right to rm rf Building a Global Self Hosted Backup and Restore"
-- **URL:** https://www.youtube.com/watch?v=fTOc8V721L0
+- **URL:** [https://www.youtube.com/watch?v=fTOc8V721L0](https://www.youtube.com/watch?v=fTOc8V721L0)
 - **Duration:** 53:59 · **Uploaded:** November 10, 2026 (inferred) · Views at check: 20
 - **Description (YouTube):** not verified — the video page could not be loaded at check time, so the description is unknown, not confirmed empty.
 - **Repository:** none found in pretalx, YouTube description, or slides — no talk-linked repo located.

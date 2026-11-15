@@ -5,7 +5,7 @@ Texas Linux Fest 2026 — November 6–7, 2026, JJ Pickle Research Campus, Austi
 Summaries verified live November 12, 2026 from the Texas Linux Fest YouTube channel @texaslinuxfest3002, cross-checked against the official pretalx schedule. View counts and upload dates are as of November 12, 2026. Upload date is inferred from YouTube's "2 days ago" at the time of checking.
 
 - **Video title (YouTube):** "Texas Linux Festival 2026-11-07: Log Files to Live Signals Rethinking HPC Operations on Bare Metal" — note the YouTube title drops "From" at the start and "Linux" before "Bare Metal" versus the pretalx title.
-- **URL:** https://www.youtube.com/watch?v=b_Skx8NwcA0
+- **URL:** [https://www.youtube.com/watch?v=b_Skx8NwcA0](https://www.youtube.com/watch?v=b_Skx8NwcA0)
 - **Duration:** 55:09 · **Uploaded:** November 10, 2026 (inferred) · Views at check: 10
 - **Description (YouTube):** not verified — the video page could not be loaded at check time, so the description is unknown, not confirmed empty.
 - **Repository:** none found in pretalx, YouTube description, or slides — no talk-linked repo located.
