@@ -8,7 +8,8 @@ Notes from conferences I attend — talk summaries, links, and repos, organised 
 
 ### November 14, 2026 — GitHub Pages enabled
 
-- **GitHub Pages** — Jekyll, Cayman theme, deploy from `main` / (root), via `_config.yml`. Site: https://chknfrdstk.github.io/Conferences/
+- **GitHub Pages** — Jekyll, deploy from `main` / (root), via `_config.yml`. Site: https://chknfrdstk.github.io/Conferences/
+- **Theme switched to Slate (dark)** — later on Nov 14, from Cayman to `jekyll-theme-slate`.
 - **Repeatable setup** — every push to main rebuilds the site automatically. New events go in their own `EVENT/YEAR/` folder with talks + README, push, done. No separate HTML export to maintain.
 
 ### November 14, 2026 — Repo created, TXLF 2026 moved from notes
