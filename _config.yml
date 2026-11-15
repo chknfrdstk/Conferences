@@ -1,0 +1,8 @@
+# GitHub Pages settings for the Conferences repo.
+# Pages is set to deploy from the main branch, / (root).
+# Every push to main rebuilds the site automatically.
+# New events: add an EVENT/YEAR/ folder with talks + README, push, done.
+title: Conferences
+description: Conference talk summaries and video/documentation links
+theme: jekyll-theme-cayman
+markdown: kramdown
