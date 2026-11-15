@@ -4,5 +4,5 @@
 # New events: add an EVENT/YEAR/ folder with talks + README, push, done.
 title: Conferences
 description: Conference talk summaries and video/documentation links
-theme: jekyll-theme-slate
+theme: jekyll-theme-midnight
 markdown: kramdown
