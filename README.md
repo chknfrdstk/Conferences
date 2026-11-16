@@ -6,6 +6,17 @@ Notes from conferences I attend — talk summaries, links, and repos, organised 
 
 ## Changelog
 
+### November 16, 2026 — Tux favicon
+
+- **Tux favicon** — the official Linux penguin (Larry Ewing's Tux) now shows in the browser tab, via `favicon.ico` at the repo root and `_includes/head-custom.html` (Midnight's head include, no layout override).
+- **Apple touch icon** — `tux-180.png` (180×180) for iOS home-screen bookmarks.
+
+### November 16, 2026 — Landing page redesign
+
+- **Hero header** — new gradient hero with the tagline and a stats chip row (40 talks, Nov 6–7 2026, Austin TX, TXLF 2026).
+- **Talk cards** — the Friday and Saturday bullet lists are now card grids (11 + 29 talks), each card with talk number, title, and speaker; the keynote (talk 12) gets a ⭐ Keynote tag. Same talk order and links, nothing moved.
+- **No changelog on the Pages site** — the landing page stays changelog-free; this entry lives here in the README only.
+
 ### November 14, 2026 — GitHub Pages enabled
 
 - **GitHub Pages** — Jekyll, deploy from `main` / (root), via `_config.yml`. Site: https://chknfrdstk.github.io/Conferences/
