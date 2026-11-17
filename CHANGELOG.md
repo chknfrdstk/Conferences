@@ -2,6 +2,12 @@
 
 Newest first.
 
+### November 16, 2026 — TXLF 2026 talks page redesigned
+
+- **Card layout** — the TXLF 2026 talks page now matches the landing page: gradient hero with the TXLF logo and stat chips, Friday and Saturday talk cards (11 + 29) instead of plain bullet lists. Same order and links, nothing moved.
+- **Saturday merged** — the "continued (new uploads)" split is gone; all 29 Saturday talks are in one list, numbers 12–40.
+- **Missing talks re-checked** — the 4 scheduled talks still not on YouTube were re-checked November 16, 2026 (still missing); the table now shows the new check date.
+
 ### November 16, 2026 — Changelog moved to CHANGELOG.md
 
 - **README is now a summary and navigation guide** — what the repo is and how to get around it.
